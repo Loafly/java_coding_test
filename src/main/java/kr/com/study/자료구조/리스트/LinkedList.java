@@ -82,7 +82,9 @@ public class LinkedList {
         }
 
         if(head == tail) {
+            Object data = head.data;
             clear();
+            return data;
         }
 
         Node currentNode = head;
