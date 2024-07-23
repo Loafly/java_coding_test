@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da586ab7-65ed-4bb3-9d7e-d8ff64af0c6c" name="Changes" comment="feat : 연결리스트 코드 수정">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/com/study/자료구조/스택/Stack.java" afterDir="false" />
+    <list default="true" id="da586ab7-65ed-4bb3-9d7e-d8ff64af0c6c" name="Changes" comment="feat : Stack 자료구조">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/com/study/프로그래머스_문제/힙/더_맵게.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
     "Gradle.java_coding_test [:Main.main()].executor": "Debug",
     "Gradle.java_coding_test [:Repeat.main()].executor": "Run",
     "Gradle.java_coding_test [:Stack.main()].executor": "Run",
+    "Gradle.java_coding_test [:더_맵게.main()].executor": "Run",
     "Gradle.java_coding_test [:문자열반복.main()].executor": "Run",
     "Gradle.java_coding_test [:문자열배열붙이기.main()].executor": "Run",
     "Gradle.java_coding_test [:문자열비교.main()].executor": "Run",
@@ -68,7 +69,7 @@
     "Gradle.java_coding_test [:자료형변환.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "stack",
+    "git-widget-placeholder": "feat/heap",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/namseokkim/Desktop/study/programmers/java_coding_test",
     "node.js.detected.package.eslint": "true",
@@ -82,7 +83,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Stack">
+  <component name="RunManager" selected="Application.더_맵게">
     <configuration name="문자열반복" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kr.com.study.문법.문자열반복" />
       <module name="java_coding_test.main" />
@@ -200,8 +201,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="더_맵게" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.힙.더_맵게" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.힙.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.더_맵게" />
         <item itemvalue="Application.Stack" />
         <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.문자열반복" />
@@ -236,7 +251,8 @@
       <workItem from="1718864544977" duration="3547000" />
       <workItem from="1718963732410" duration="1947000" />
       <workItem from="1720425453955" duration="8254000" />
-      <workItem from="1721371730479" duration="2738000" />
+      <workItem from="1721371730479" duration="4545000" />
+      <workItem from="1721698662607" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -262,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721374110819</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat : Stack 자료구조">
+      <option name="closed" value="true" />
+      <created>1721374502323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721374502323</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +303,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="stack" />
                       </list>
                     </value>
                   </entry>
@@ -294,7 +318,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="feat : 연결리스트 코드 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : 연결리스트 코드 수정" />
+    <MESSAGE value="feat : Stack 자료구조" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : Stack 자료구조" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
