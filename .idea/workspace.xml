@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da586ab7-65ed-4bb3-9d7e-d8ff64af0c6c" name="Changes" comment="init">
+    <list default="true" id="da586ab7-65ed-4bb3-9d7e-d8ff64af0c6c" name="Changes" comment="feat : 연결리스트 코드 수정">
       <change afterPath="$PROJECT_DIR$/src/main/java/kr/com/study/자료구조/스택/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kr/com/study/자료구조/리스트/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/com/study/자료구조/리스트/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
     "Gradle.java_coding_test [:자료형변환.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "stack",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/namseokkim/Desktop/study/programmers/java_coding_test",
     "node.js.detected.package.eslint": "true",
@@ -237,7 +236,7 @@
       <workItem from="1718864544977" duration="3547000" />
       <workItem from="1718963732410" duration="1947000" />
       <workItem from="1720425453955" duration="8254000" />
-      <workItem from="1721371730479" duration="2232000" />
+      <workItem from="1721371730479" duration="2738000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -255,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721372395407</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat : 연결리스트 코드 수정">
+      <option name="closed" value="true" />
+      <created>1721374110819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721374110819</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +293,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="feat : 연결리스트 코드 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : 연결리스트 코드 수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
