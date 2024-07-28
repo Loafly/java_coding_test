@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da586ab7-65ed-4bb3-9d7e-d8ff64af0c6c" name="Changes" comment="feat&#10; - 이중우선순위 큐 풀이 (PriorityQueue 사용)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/com/study/프로그래머스_문제/스택_큐/같은숫자는싫어.java" afterDir="false" />
+    <list default="true" id="da586ab7-65ed-4bb3-9d7e-d8ff64af0c6c" name="Changes" comment="feat&#10; - 스택/큐 문제 풀이&#10;   - 같은 숫자는싫어 (queue를 이용하여 풀이)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/com/study/프로그래머스_문제/스택_큐/기능개발.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/com/study/프로그래머스_문제/스택_큐/올바른괄호.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +44,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feat/stack_queue" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -61,17 +67,20 @@
     "Gradle.java_coding_test [:Repeat.main()].executor": "Run",
     "Gradle.java_coding_test [:Stack.main()].executor": "Run",
     "Gradle.java_coding_test [:같은숫자는싫어.main()].executor": "Run",
+    "Gradle.java_coding_test [:기능개발.main()].executor": "Debug",
     "Gradle.java_coding_test [:더_맵게.main()].executor": "Run",
     "Gradle.java_coding_test [:문자열반복.main()].executor": "Run",
     "Gradle.java_coding_test [:문자열배열붙이기.main()].executor": "Run",
     "Gradle.java_coding_test [:문자열비교.main()].executor": "Run",
     "Gradle.java_coding_test [:문자열자르기.main()].executor": "Run",
     "Gradle.java_coding_test [:문자열출력.main()].executor": "Run",
+    "Gradle.java_coding_test [:수학계산.main()].executor": "Run",
+    "Gradle.java_coding_test [:올바른괄호.main()].executor": "Run",
     "Gradle.java_coding_test [:이중우선순위큐.main()].executor": "Run",
     "Gradle.java_coding_test [:자료형변환.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feat/stack__queue",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/namseokkim/Desktop/study/programmers/java_coding_test",
     "node.js.detected.package.eslint": "true",
@@ -85,9 +94,48 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.같은숫자는싫어">
-    <configuration name="문자열반복" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kr.com.study.문법.문자열반복" />
+  <component name="RunManager" selected="Application.기능개발">
+    <configuration name="올바른괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.스택_큐.올바른괄호" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.스택_큐.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="기능개발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.스택_큐.기능개발" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.스택_큐.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="자료형변환" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.grammer.자료형변환" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.grammer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="수학계산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.문법.수학계산" />
       <module name="java_coding_test.main" />
       <extension name="coverage">
         <pattern>
@@ -112,25 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kr.com.study.리스트.LinkedList" />
+    <configuration name="기능개발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.스택_큐.기능개발" />
       <module name="java_coding_test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kr.com.study.리스트.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kr.com.study.자료구조.스택.Stack" />
-      <module name="java_coding_test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kr.com.study.자료구조.스택.*" />
+          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.스택_큐.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,19 +238,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="자료형변환" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kr.com.study.grammer.자료형변환" />
-      <module name="java_coding_test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kr.com.study.grammer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="더_맵게" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.힙.더_맵게" />
       <module name="java_coding_test.main" />
@@ -231,11 +253,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.같은숫자는싫어" />
+        <item itemvalue="Application.기능개발" />
+        <item itemvalue="Application.올바른괄호" />
         <item itemvalue="Application.더_맵게" />
-        <item itemvalue="Application.Stack" />
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.문자열반복" />
       </list>
     </recent_temporary>
   </component>
@@ -268,6 +288,8 @@
       <workItem from="1720425453955" duration="8254000" />
       <workItem from="1721371730479" duration="4545000" />
       <workItem from="1721698662607" duration="39000" />
+      <workItem from="1722136137256" duration="3627000" />
+      <workItem from="1722170690541" duration="131000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -342,7 +364,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="stack" />
                       </list>
                     </value>
                   </entry>
@@ -379,6 +401,11 @@
           <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-21.0.1/Contents/Home/lib/src.zip!/java.base/java/util/PriorityQueue.java</url>
           <line>340</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kr/com/study/프로그래머스_문제/스택_큐/기능개발.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
