@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da586ab7-65ed-4bb3-9d7e-d8ff64af0c6c" name="Changes" comment="feat&#10; - 스택/큐 문제 풀이&#10;   - 같은 숫자는싫어 (queue를 이용하여 풀이)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/com/study/프로그래머스_문제/스택_큐/기능개발.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/com/study/프로그래머스_문제/스택_큐/올바른괄호.java" afterDir="false" />
+    <list default="true" id="da586ab7-65ed-4bb3-9d7e-d8ff64af0c6c" name="Changes" comment="feat&#10; - 힙 문제 풀이">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/com/study/자료구조/이진탐색/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes3/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +63,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.java_coding_test [:BinarySearchTree.main()].executor": "Run",
     "Gradle.java_coding_test [:LinkedList.main()].executor": "Run",
     "Gradle.java_coding_test [:Main.main()].executor": "Debug",
     "Gradle.java_coding_test [:Repeat.main()].executor": "Run",
@@ -80,7 +82,7 @@
     "Gradle.java_coding_test [:자료형변환.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feat/stack__queue",
+    "git-widget-placeholder": "feat/binary-search-tree",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/namseokkim/Desktop/study/programmers/java_coding_test",
     "node.js.detected.package.eslint": "true",
@@ -94,13 +96,78 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.기능개발">
+  <component name="RunManager" selected="Application.BinarySearchTree">
     <configuration name="올바른괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.스택_큐.올바른괄호" />
       <module name="java_coding_test.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="kr.com.study.프로그래머스_문제.스택_큐.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.자료구조.이진탐색.BinarySearchTree" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.자료구조.이진탐색.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="문자열비교" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.grammer.문자열비교" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.grammer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="문자열자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.grammer.문자열자르기" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.grammer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="문자열출력" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.grammer.문자열출력" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.grammer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="문자열배열붙이기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.grammer.문자열배열붙이기" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.grammer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,58 +253,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="문자열비교" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kr.com.study.grammer.문자열비교" />
-      <module name="java_coding_test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kr.com.study.grammer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="문자열자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kr.com.study.grammer.문자열자르기" />
-      <module name="java_coding_test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kr.com.study.grammer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="문자열출력" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kr.com.study.grammer.문자열출력" />
-      <module name="java_coding_test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kr.com.study.grammer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="문자열배열붙이기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kr.com.study.grammer.문자열배열붙이기" />
-      <module name="java_coding_test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kr.com.study.grammer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="더_맵게" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.힙.더_맵게" />
       <module name="java_coding_test.main" />
@@ -253,9 +268,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.기능개발" />
-        <item itemvalue="Application.올바른괄호" />
+        <item itemvalue="Application.BinarySearchTree" />
         <item itemvalue="Application.더_맵게" />
+        <item itemvalue="Application.올바른괄호" />
       </list>
     </recent_temporary>
   </component>
@@ -290,6 +305,7 @@
       <workItem from="1721698662607" duration="39000" />
       <workItem from="1722136137256" duration="3627000" />
       <workItem from="1722170690541" duration="131000" />
+      <workItem from="1722945918933" duration="12383000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -347,7 +363,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721703577173</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat&#10; - 힙 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1722216205515</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722216205515</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,7 +406,10 @@
     <MESSAGE value="feat : Stack 자료구조" />
     <MESSAGE value="feat&#10; - 더_맵게 문제 풀이 (PriorityQueue 사용)" />
     <MESSAGE value="feat&#10; - 이중우선순위 큐 풀이 (PriorityQueue 사용)" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat&#10; - 이중우선순위 큐 풀이 (PriorityQueue 사용)" />
+    <MESSAGE value="feat&#10; - 힙 문제 풀이&#10;   - 포켓몬&#10;   - 전화번호 목록" />
+    <MESSAGE value="feat&#10; - 힙 문제 풀이&#10;   - 포켓몬&#10;   -" />
+    <MESSAGE value="feat&#10; - 힙 문제 풀이&#10;   - 포켓몬&#10;   - 전화번호 목록" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat&#10; - 힙 문제 풀이&#10;   - 포켓몬&#10;   - 전화번호 목록" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -406,6 +433,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/kr/com/study/프로그래머스_문제/스택_큐/기능개발.java</url>
           <line>33</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kr/com/study/자료구조/이진탐색/BinarySearchTree.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
