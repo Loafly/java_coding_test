@@ -2,7 +2,7 @@ package kr.com.study.자료구조.이진탐색;
 
 public class BinarySearchTree {
 
-    private class Node {
+    private static class Node {
         private int key;
         private Node leftNode;
         private Node rightNode;
@@ -66,8 +66,13 @@ public class BinarySearchTree {
         }
         // 상위 노드가 삭제할 데이터인 경우
         else {
+            // 자식 노드가 없는 경우
+            if(parent.leftNode == null && parent.rightNode == null) {
+                return null;
+            }
+
             // 왼쪽 노드가 없는 경우, 오른쪽 노드를 기존 삭제된 노드로 대체
-            if(parent.leftNode == null) {
+            else if(parent.leftNode == null) {
                 return parent.rightNode;
             }
             // 오른쪽 노드가 없는 경우, 왼쪽 노드를 기존 삭제된 노드로 대체
@@ -153,6 +158,8 @@ public class BinarySearchTree {
         binarySearchTree.delete(7);
         binarySearchTree.inorderTraversal();
         binarySearchTree.delete(62);
+        binarySearchTree.inorderTraversal();
+        binarySearchTree.delete(11);
         binarySearchTree.inorderTraversal();
 
     }
