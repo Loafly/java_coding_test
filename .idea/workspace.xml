@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da586ab7-65ed-4bb3-9d7e-d8ff64af0c6c" name="Changes" comment="feat&#10; - 이진 탐색 트리 자료구조">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/com/study/자료구조/큐/PriorityQueue.java" afterDir="false" />
+    <list default="true" id="da586ab7-65ed-4bb3-9d7e-d8ff64af0c6c" name="Changes" comment="feat&#10; - ...">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
     "Gradle.java_coding_test [:자료형변환.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feat/priority-queue",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/namseokkim/Desktop/study/programmers/java_coding_test",
     "node.js.detected.package.eslint": "true",
@@ -128,6 +128,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="kr.com.study.자료구조.큐.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="수학계산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.문법.수학계산" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.문법.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="같은숫자는싫어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.스택_큐.같은숫자는싫어" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.스택_큐.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,32 +265,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="수학계산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kr.com.study.문법.수학계산" />
-      <module name="java_coding_test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kr.com.study.문법.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="같은숫자는싫어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.스택_큐.같은숫자는싫어" />
-      <module name="java_coding_test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.스택_큐.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="더_맵게" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.힙.더_맵게" />
       <module name="java_coding_test.main" />
@@ -319,6 +319,7 @@
       <workItem from="1722136137256" duration="3627000" />
       <workItem from="1722170690541" duration="131000" />
       <workItem from="1722945918933" duration="14201000" />
+      <workItem from="1724131644056" duration="139000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -392,7 +393,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723020289395</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat&#10; - ...">
+      <option name="closed" value="true" />
+      <created>1724131688001</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724131688001</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,7 +418,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -431,7 +440,8 @@
     <MESSAGE value="feat&#10; - 힙 문제 풀이&#10;   - 포켓몬&#10;   -" />
     <MESSAGE value="feat&#10; - 힙 문제 풀이&#10;   - 포켓몬&#10;   - 전화번호 목록" />
     <MESSAGE value="feat&#10; - 이진 탐색 트리 자료구조" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat&#10; - 이진 탐색 트리 자료구조" />
+    <MESSAGE value="feat&#10; - ..." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat&#10; - ..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
