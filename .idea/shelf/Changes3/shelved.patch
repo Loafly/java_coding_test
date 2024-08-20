@@ -1,0 +1,152 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"da586ab7-65ed-4bb3-9d7e-d8ff64af0c6c\" name=\"Changes\" comment=\"feat&#10; - 힙 문제 풀이\">\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/kr/com/study/자료구조/이진탐색/BinarySearchTree.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Changes3.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Changes3/shelved.patch\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"ExternalProjectsManager\">\n    <system id=\"GRADLE\">\n      <state>\n        <projects_view>\n          <tree_state>\n            <expand>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"java_coding_test\" type=\"f1a62948:ProjectNode\" />\n              </path>\n            </expand>\n            <select />\n          </tree_state>\n        </projects_view>\n      </state>\n    </system>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"feat/stack_queue\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;customColor&quot;: &quot;&quot;,\n  &quot;associatedIndex&quot;: 5\n}</component>\n  <component name=\"ProjectId\" id=\"2hKTShRX9pGCwAgyDqCGqhSK5jb\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Gradle.java_coding_test [:BinarySearchTree.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:LinkedList.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:Main.main()].executor\": \"Debug\",\n    \"Gradle.java_coding_test [:Repeat.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:Stack.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:같은숫자는싫어.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:기능개발.main()].executor\": \"Debug\",\n    \"Gradle.java_coding_test [:더_맵게.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:문자열반복.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:문자열배열붙이기.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:문자열비교.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:문자열자르기.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:문자열출력.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:수학계산.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:올바른괄호.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:이중우선순위큐.main()].executor\": \"Run\",\n    \"Gradle.java_coding_test [:자료형변환.main()].executor\": \"Run\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"git-widget-placeholder\": \"feat/binary-search-tree\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"last_opened_file_path\": \"/Users/namseokkim/Desktop/study/programmers/java_coding_test\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"project.structure.last.edited\": \"Modules\",\n    \"project.structure.proportion\": \"0.0\",\n    \"project.structure.side.proportion\": \"0.0\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RunManager\" selected=\"Application.BinarySearchTree\">\n    <configuration name=\"올바른괄호\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"kr.com.study.프로그래머스_문제.스택_큐.올바른괄호\" />\n      <module name=\"java_coding_test.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"kr.com.study.프로그래머스_문제.스택_큐.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"BinarySearchTree\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"kr.com.study.자료구조.이진탐색.BinarySearchTree\" />\n      <module name=\"java_coding_test.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"kr.com.study.자료구조.이진탐색.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"문자열비교\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"kr.com.study.grammer.문자열비교\" />\n      <module name=\"java_coding_test.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"kr.com.study.grammer.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"문자열자르기\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"kr.com.study.grammer.문자열자르기\" />\n      <module name=\"java_coding_test.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"kr.com.study.grammer.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"문자열출력\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"kr.com.study.grammer.문자열출력\" />\n      <module name=\"java_coding_test.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"kr.com.study.grammer.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"문자열배열붙이기\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"kr.com.study.grammer.문자열배열붙이기\" />\n      <module name=\"java_coding_test.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"kr.com.study.grammer.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"기능개발\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"kr.com.study.프로그래머스_문제.스택_큐.기능개발\" />\n      <module name=\"java_coding_test.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"kr.com.study.프로그래머스_문제.스택_큐.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"자료형변환\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"kr.com.study.grammer.자료형변환\" />\n      <module name=\"java_coding_test.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"kr.com.study.grammer.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"수학계산\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"kr.com.study.문법.수학계산\" />\n      <module name=\"java_coding_test.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"kr.com.study.문법.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"같은숫자는싫어\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"kr.com.study.프로그래머스_문제.스택_큐.같은숫자는싫어\" />\n      <module name=\"java_coding_test.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"kr.com.study.프로그래머스_문제.스택_큐.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"기능개발\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"kr.com.study.프로그래머스_문제.스택_큐.기능개발\" />\n      <module name=\"java_coding_test.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"kr.com.study.프로그래머스_문제.스택_큐.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"이중우선순위큐\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"kr.com.study.프로그래머스_문제.힙.이중우선순위큐\" />\n      <module name=\"java_coding_test.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"kr.com.study.프로그래머스_문제.힙.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"더_맵게\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"kr.com.study.프로그래머스_문제.힙.더_맵게\" />\n      <module name=\"java_coding_test.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"kr.com.study.프로그래머스_문제.힙.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.BinarySearchTree\" />\n        <item itemvalue=\"Application.더_맵게\" />\n        <item itemvalue=\"Application.올바른괄호\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79\" />\n        <option value=\"bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"da586ab7-65ed-4bb3-9d7e-d8ff64af0c6c\" name=\"Changes\" comment=\"\" />\n      <created>1717341771809</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1717341771809</updated>\n      <workItem from=\"1717341772944\" duration=\"4006000\" />\n      <workItem from=\"1717388850152\" duration=\"99000\" />\n      <workItem from=\"1717388951928\" duration=\"79000\" />\n      <workItem from=\"1717389035485\" duration=\"8166000\" />\n      <workItem from=\"1717562987649\" duration=\"12198000\" />\n      <workItem from=\"1717727173969\" duration=\"4080000\" />\n      <workItem from=\"1718021353964\" duration=\"1267000\" />\n      <workItem from=\"1718083305201\" duration=\"6479000\" />\n      <workItem from=\"1718864544977\" duration=\"3547000\" />\n      <workItem from=\"1718963732410\" duration=\"1947000\" />\n      <workItem from=\"1720425453955\" duration=\"8254000\" />\n      <workItem from=\"1721371730479\" duration=\"4545000\" />\n      <workItem from=\"1721698662607\" duration=\"39000\" />\n      <workItem from=\"1722136137256\" duration=\"3627000\" />\n      <workItem from=\"1722170690541\" duration=\"131000\" />\n      <workItem from=\"1722945918933\" duration=\"12383000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"init\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1721371958705</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1721371958705</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"init\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1721372395407</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1721372395407</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"feat : 연결리스트 코드 수정\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1721374110819</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1721374110819</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"feat : Stack 자료구조\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1721374502323</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1721374502323</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"feat&#10; - 더_맵게 문제 풀이 (PriorityQueue 사용)\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1721699959334</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1721699959334</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"feat&#10; - 이중우선순위 큐 풀이 (PriorityQueue 사용)\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1721703321047</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1721703321047</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"feat&#10; - 이중우선순위 큐 풀이 (PriorityQueue 사용)\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1721703577173</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1721703577173</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"feat&#10; - 힙 문제 풀이\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1722216205515</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1722216205515</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"9\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"stack\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"init\" />\n    <MESSAGE value=\"feat : 연결리스트 코드 수정\" />\n    <MESSAGE value=\"feat : Stack 자료구조\" />\n    <MESSAGE value=\"feat&#10; - 더_맵게 문제 풀이 (PriorityQueue 사용)\" />\n    <MESSAGE value=\"feat&#10; - 이중우선순위 큐 풀이 (PriorityQueue 사용)\" />\n    <MESSAGE value=\"feat&#10; - 힙 문제 풀이&#10;   - 포켓몬&#10;   - 전화번호 목록\" />\n    <MESSAGE value=\"feat&#10; - 힙 문제 풀이&#10;   - 포켓몬&#10;   -\" />\n    <MESSAGE value=\"feat&#10; - 힙 문제 풀이&#10;   - 포켓몬&#10;   - 전화번호 목록\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"feat&#10; - 힙 문제 풀이&#10;   - 포켓몬&#10;   - 전화번호 목록\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/kr/com/study/프로그래머스_문제/해시/전화번호목록.java</url>\n          <line>11</line>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/kr/com/study/프로그래머스_문제/힙/이중우선순위큐.java</url>\n          <line>36</line>\n          <option name=\"timeStamp\" value=\"4\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-21.0.1/Contents/Home/lib/src.zip!/java.base/java/util/PriorityQueue.java</url>\n          <line>340</line>\n          <option name=\"timeStamp\" value=\"5\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/kr/com/study/프로그래머스_문제/스택_큐/기능개발.java</url>\n          <line>33</line>\n          <option name=\"timeStamp\" value=\"6\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/kr/com/study/자료구조/이진탐색/BinarySearchTree.java</url>\n          <line>150</line>\n          <option name=\"timeStamp\" value=\"17\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision e2b0886985b2a214ea2fff7af01645009445e41e)
++++ b/.idea/workspace.xml	(date 1723535455916)
+@@ -61,41 +61,41 @@
+   <component name="ProjectViewState">
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Gradle.java_coding_test [:BinarySearchTree.main()].executor": "Run",
+-    "Gradle.java_coding_test [:LinkedList.main()].executor": "Run",
+-    "Gradle.java_coding_test [:Main.main()].executor": "Debug",
+-    "Gradle.java_coding_test [:Repeat.main()].executor": "Run",
+-    "Gradle.java_coding_test [:Stack.main()].executor": "Run",
+-    "Gradle.java_coding_test [:같은숫자는싫어.main()].executor": "Run",
+-    "Gradle.java_coding_test [:기능개발.main()].executor": "Debug",
+-    "Gradle.java_coding_test [:더_맵게.main()].executor": "Run",
+-    "Gradle.java_coding_test [:문자열반복.main()].executor": "Run",
+-    "Gradle.java_coding_test [:문자열배열붙이기.main()].executor": "Run",
+-    "Gradle.java_coding_test [:문자열비교.main()].executor": "Run",
+-    "Gradle.java_coding_test [:문자열자르기.main()].executor": "Run",
+-    "Gradle.java_coding_test [:문자열출력.main()].executor": "Run",
+-    "Gradle.java_coding_test [:수학계산.main()].executor": "Run",
+-    "Gradle.java_coding_test [:올바른괄호.main()].executor": "Run",
+-    "Gradle.java_coding_test [:이중우선순위큐.main()].executor": "Run",
+-    "Gradle.java_coding_test [:자료형변환.main()].executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "feat/binary-search-tree",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "/Users/namseokkim/Desktop/study/programmers/java_coding_test",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "project.structure.last.edited": "Modules",
+-    "project.structure.proportion": "0.0",
+-    "project.structure.side.proportion": "0.0",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Gradle.java_coding_test [:BinarySearchTree.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:LinkedList.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:Main.main()].executor&quot;: &quot;Debug&quot;,
++    &quot;Gradle.java_coding_test [:Repeat.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:Stack.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:같은숫자는싫어.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:기능개발.main()].executor&quot;: &quot;Debug&quot;,
++    &quot;Gradle.java_coding_test [:더_맵게.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:문자열반복.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:문자열배열붙이기.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:문자열비교.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:문자열자르기.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:문자열출력.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:수학계산.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:올바른괄호.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:이중우선순위큐.main()].executor&quot;: &quot;Run&quot;,
++    &quot;Gradle.java_coding_test [:자료형변환.main()].executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;feat/binary-search-tree&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/Users/namseokkim/Desktop/study/programmers/java_coding_test&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager" selected="Application.BinarySearchTree">
+     <configuration name="올바른괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.스택_큐.올바른괄호" />
+@@ -116,6 +116,32 @@
+       <extension name="coverage">
+         <pattern>
+           <option name="PATTERN" value="kr.com.study.자료구조.이진탐색.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="기능개발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.스택_큐.기능개발" />
++      <module name="java_coding_test.main" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.스택_큐.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="이중우선순위큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.힙.이중우선순위큐" />
++      <module name="java_coding_test.main" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.힙.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -220,32 +246,6 @@
+       <extension name="coverage">
+         <pattern>
+           <option name="PATTERN" value="kr.com.study.프로그래머스_문제.스택_큐.*" />
+-          <option name="ENABLED" value="true" />
+-        </pattern>
+-      </extension>
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="기능개발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.스택_큐.기능개발" />
+-      <module name="java_coding_test.main" />
+-      <extension name="coverage">
+-        <pattern>
+-          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.스택_큐.*" />
+-          <option name="ENABLED" value="true" />
+-        </pattern>
+-      </extension>
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="이중우선순위큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.힙.이중우선순위큐" />
+-      <module name="java_coding_test.main" />
+-      <extension name="coverage">
+-        <pattern>
+-          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.힙.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>

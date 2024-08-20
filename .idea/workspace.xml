@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da586ab7-65ed-4bb3-9d7e-d8ff64af0c6c" name="Changes" comment="feat&#10; - 이진 탐색 트리 자료구조">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/com/study/자료구조/큐/PriorityQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kr/com/study/자료구조/이진탐색/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/com/study/자료구조/이진탐색/BinarySearchTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feat/stack_queue" />
+        <entry key="$PROJECT_DIR$" value="feat/binary-search-tree" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,6 +64,7 @@
     "Gradle.java_coding_test [:BinarySearchTree.main()].executor": "Run",
     "Gradle.java_coding_test [:LinkedList.main()].executor": "Run",
     "Gradle.java_coding_test [:Main.main()].executor": "Debug",
+    "Gradle.java_coding_test [:PriorityQueue.main()].executor": "Debug",
     "Gradle.java_coding_test [:Repeat.main()].executor": "Run",
     "Gradle.java_coding_test [:Stack.main()].executor": "Run",
     "Gradle.java_coding_test [:같은숫자는싫어.main()].executor": "Run",
@@ -80,7 +81,7 @@
     "Gradle.java_coding_test [:자료형변환.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feat/binary-search-tree",
+    "git-widget-placeholder": "feat/priority-queue",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/namseokkim/Desktop/study/programmers/java_coding_test",
     "node.js.detected.package.eslint": "true",
@@ -94,7 +95,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BinarySearchTree">
+  <component name="RunManager" selected="Application.PriorityQueue">
     <configuration name="올바른괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.스택_큐.올바른괄호" />
       <module name="java_coding_test.main" />
@@ -114,6 +115,45 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="kr.com.study.자료구조.이진탐색.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.자료구조.큐.PriorityQueue" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.자료구조.큐.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="기능개발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.스택_큐.기능개발" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.스택_큐.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="이중우선순위큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.힙.이중우선순위큐" />
+      <module name="java_coding_test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.힙.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,32 +265,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="기능개발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.스택_큐.기능개발" />
-      <module name="java_coding_test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.스택_큐.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이중우선순위큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.힙.이중우선순위큐" />
-      <module name="java_coding_test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kr.com.study.프로그래머스_문제.힙.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="더_맵게" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kr.com.study.프로그래머스_문제.힙.더_맵게" />
       <module name="java_coding_test.main" />
@@ -266,6 +280,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PriorityQueue" />
         <item itemvalue="Application.BinarySearchTree" />
         <item itemvalue="Application.더_맵게" />
         <item itemvalue="Application.올바른괄호" />
@@ -440,11 +455,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/kr/com/study/프로그래머스_문제/스택_큐/기능개발.java</url>
           <line>33</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/kr/com/study/자료구조/이진탐색/BinarySearchTree.java</url>
-          <line>155</line>
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
